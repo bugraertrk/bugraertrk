@@ -1,4 +1,4 @@
-https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif
+
 <h1 align="center">Hi 👋, I'm Ahmet Buğra Ertürk</h1>
 <h3 align="center">Software Developer</h3>
 <img aling="right" alt="Coding" width="400" src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif">
