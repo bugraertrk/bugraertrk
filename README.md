@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ahmet Buğra Ertürk</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Big Data Engineer, DWH, ETL</h3>
 <img aling="right" alt="Coding" width="400" src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugraertrk&label=Profile%20views&color=0e75b6&style=flat" alt="bugraertrk" /> </p>
