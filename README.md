@@ -10,9 +10,7 @@
 
 <br>
 
-```console
-bugraertrk@github:~$ cat stack.txt
-```
+### Stack
 
 **Databases & Query Engines**
 
@@ -48,9 +46,7 @@ bugraertrk@github:~$ cat stack.txt
 
 <br>
 
-```console
-bugraertrk@github:~$ ls -la work/
-```
+### Work
 
 **`DWH Modernization`** &nbsp;·&nbsp; `Oracle` `PostgreSQL` `Greenplum` `dbt` `Airflow` `PySpark`
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>Türkiye Sigorta · closed source</sub>
@@ -71,31 +67,7 @@ in Grafana, and sentiment analysis over ratings and reviews via Vertex AI.
 
 <br>
 
-```console
-bugraertrk@github:~$ ls -la repos/
-```
-
-<!-- ↓ Bu bölüm için gerçekten kendi repolarını listele.
-     Fork'ları buraya koyma. Şimdilik tek gerçek adayın Gold-Analysis. -->
-
-[**`Gold-Analysis`**](https://github.com/bugraertrk/Gold-Analysis) &nbsp;·&nbsp; `Python` `Jupyter`
-
-Exploratory analysis of gold price data.
-
-<br>
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=bugraertrk&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugraertrk&layout=compact&hide_border=true&theme=github_dark&langs_count=6&hide=c%23,java,solidity,shaderlab,html,css,javascript" />
-
-</div>
-
-<br>
-
-```console
-bugraertrk@github:~$ ./links.sh
-```
+### Links
 
 <div align="center">
 
