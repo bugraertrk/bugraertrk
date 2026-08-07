@@ -1,34 +1,175 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ahmet Buğra Ertürk</h1>
-<h3 align="center">Big Data Engineer, DWH, ETL</h3>
-<img aling="right" alt="Coding" width="400" src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif">
+```
+█▀▄ ▄▀█ ▀█▀ ▄▀█   █▀▀ █▄░█ █▀▀ █ █▄░█ █▀▀ █▀▀ █▀█
+█▄▀ █▀█ ░█░ █▀█   ██▄ █░▀█ █▄█ █ █░▀█ ██▄ ██▄ █▀▄
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bugraertrk&label=Profile%20views&color=0e75b6&style=flat" alt="bugraertrk" /> </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmet-buğra-ertürk-3386a719b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-buğra-ertürk-3386a719b" height="30" width="40" /></a>
-</p>
+<table>
+<tr>
+<td valign="top" width="46%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<pre>
+                -:... . .           .....
+             .---::..              ....
+ .         :::...... .
+ ..       ..          ..             ...
+...         -=++==::..                .
+..:     ..:*%%@@@@@@@%#*++==-----:.      ..
+..:.   ::+#%%%%%%%%%%%%%#*********++=.    ...
+..::  .=+##%%@@@@@@%%%###******##**+*+.
+..::  .+*#%%@@%%%%%%%%%%#*+***********-.
+..:-   -=%@@@@@@@@@@@@%%#####**####***-:.
+..::.  :+%%*++=::-=*#%%####*+==---=+**=..
+.::::   .-+=+=--:. .:-+++=-.       ..=*:
+.:::: .*.+%%*==:.:-:-:.-: ::....:---:-
+.:::: .+=#%%#++:.:::-:+%#.:-..  -:.-=+:-+*
+.:::: .##=%%@@#*+=-+=+@%#+.----===++*++#++
+.::::.-%%#***###**#*+@%%*+=:=====+++++*+*+
+..:::.-%%@@@%%%%%%*#@@@%**++-===++**+**++*
+..:::.:*%%%@@@@%%#+#=*#*++=++-=++***++*+%.
+..:::: .%%%@@%%%%@@%++=---::===+++++++*-:
+...::.. #%%@%%@#+***====-=: .:..=*+++=+
+......: -#*%%@=...-==------:::. .+*===.
+.......  =+*#%-:+**#%*==--=++++::--::::::::.
+........ :----+*%@@@%*=::-=****-.:......
+ ......  *+:.:=+%%%@%#*=--++*+-:  .        .
+ ....    ***-. .=+**++=---:--.   :+
+         -*+#*-.     .....     .-++         ..
+          =++***+:.         ..--===:
+           -++++++===-::.:::---===-:
+            :==+++====-------------.
+              :-===-------:::-----.
+               .:::::::::::::-::-:
+                 ...::::::::::::.
+                  .......::::::
+</pre>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugraertrk&show_icons=true&locale=en&layout=compact" alt="bugraertrk" /></p>
+</td>
+<td valign="top" width="54%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugraertrk&show_icons=true&locale=en" alt="bugraertrk" /></p>
-	
-	
-<!--
-**bugraertrk/bugraertrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+<b>bugraertrk@github</b>
+─────────────────────────────────────
 
-Here are some ideas to get you started:
+<b>Role</b>       Data Engineer
+<b>Now</b>        Data Developer @ Growdash
+           Dubai, UAE · Remote
+<b>Before</b>     Big Data Engineer @ Türkiye Sigorta
+<b>Study</b>      MSc, Information Technologies
+           and Systems · Bartın University
+<b>Location</b>   Ankara, Türkiye
+<b>Focus</b>      ELT/ETL · Data Warehousing
+           Data Modeling · Monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+─────────────────────────────────────
+
+<b>Highlights</b>
+
+  ▸ 34h → 1h30m data transfer
+    <b>95.6%</b> faster (DBT · Airflow · PySpark)
+
+  ▸ 7h → 1h30m Oracle CDC process
+    <b>98%</b> faster (DBT incremental)
+
+  ▸ Up to <b>85%</b> reduction in
+    operational costs
+
+  ▸ Oracle → PostgreSQL DWH migration
+    end-to-end, in production
+
+─────────────────────────────────────
+</pre>
+
+</td>
+</tr>
+</table>
+
+```console
+bugraertrk@github:~$ cat stack.txt
+```
+
+**Databases & Query Engines**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Greenplum](https://img.shields.io/badge/Greenplum-000000?style=flat-square&logo=greenplum&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white)
+
+**Languages & Transformation**
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+
+**Orchestration, Cloud & Monitoring**
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+<br>
+
+```console
+bugraertrk@github:~$ ls -la work/
+```
+
+**`DWH Modernization`** &nbsp;·&nbsp; `Oracle` `PostgreSQL` `Greenplum` `dbt` `Airflow` `PySpark`
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>Türkiye Sigorta · closed source</sub>
+
+Migrated an Oracle-based data warehouse and datamart environment to a Big Data
+platform and rebuilt the ETL layer from the ground up. Cut a 34-hour transfer
+window down to 1.5 hours, and an Oracle CDC process from 7 hours to 1.5 hours
+using dbt incremental models. Contributed to a PySpark reconciliation system
+that verified row-level accuracy across the migration.
+
+**`ELT Pipelines & Layered Models`** &nbsp;·&nbsp; `BigQuery` `Bruin` `Grafana` `Looker` `Vertex AI`
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>Growdash · closed source</sub>
+
+Building scalable ELT pipelines and L1–L4 layered data models on BigQuery,
+with incremental and full-refresh strategies chosen per data volume. Data
+quality validation running across platforms, real-time monitoring dashboards
+in Grafana, and sentiment analysis over ratings and reviews via Vertex AI.
+
+<br>
+
+```console
+bugraertrk@github:~$ ls -la repos/
+```
+
+<!-- ↓ Bu bölüm için gerçekten kendi repolarını listele.
+     Fork'ları buraya koyma. Şimdilik tek gerçek adayın Gold-Analysis. -->
+
+[**`Gold-Analysis`**](https://github.com/bugraertrk/Gold-Analysis) &nbsp;·&nbsp; `Python` `Jupyter`
+
+Exploratory analysis of gold price data.
+
+<br>
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=bugraertrk&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugraertrk&layout=compact&hide_border=true&theme=github_dark&langs_count=6&hide=c%23,java,solidity,shaderlab,html,css,javascript" />
+
+</div>
+
+<br>
+
+```console
+bugraertrk@github:~$ ./links.sh
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-bu%C4%9Fra-ert%C3%BCrk-3386a719b/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbugraertrk@gmail.com)
+
+</div>
